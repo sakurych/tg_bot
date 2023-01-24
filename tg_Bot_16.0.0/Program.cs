@@ -14,7 +14,7 @@ namespace tg_Bot_16._0._0
     class Program
     {
         private static int counter;
-        private static String token { get; set; } = "5618027592:AAGOpbvZOBuP36MyAeL0Cr4dOi2e6v5B8Bs";
+        private static String token { get; set; } = "";
         protected static TelegramBotClient client;
         public static int check = 0;
         static void Main(string[] args)
